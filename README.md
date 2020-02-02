@@ -1,3 +1,1 @@
-# mc-server-list
-
-Java micro-service for enumerating Minecraft servers and their current statuses.
+Commit to the Artic Code Vault! 1000 YEARS ARCTIC CODE VAULT, MORTY!!
